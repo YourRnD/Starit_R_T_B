@@ -1,0 +1,2 @@
+class PointLocation < ApplicationRecord
+end
